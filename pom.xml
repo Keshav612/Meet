@@ -3,11 +3,12 @@
   <groupId>Meetdevops</groupId>
   <artifactId>MeetDevops</artifactId>
   <version>0.0.1</version>
+  <packaging>war</packaging>
   	        
 <distributionManagement>
     <snapshotRepository>
-      <id>Meetdevops</id>
-      <url>http://localhost:8081/repository/MeetDevops/</url>
+      <id>Meet</id>
+      <url>http://localhost:8081/repository/M1/</url>
     </snapshotRepository>
 </distributionManagement>
   <build>
